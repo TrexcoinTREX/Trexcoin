@@ -20,8 +20,8 @@ algorithm which replaced Proof-of-Work (PoW).
 Trexcoin started in Apirl 2020 as a variant of Litecoin using Scrypt as
 the Proof-of-Work (PoW) hash algorithm.
  - 60 Second block target
- - 100 coins per block
- - After 50000 Block mined via POW Phase POW mining is over (100 coins rewarded on per POW block Mined)
+ - 10 coins per block
+ - After 5000 Block mined via POW Phase POW mining is over (100 coins rewarded on per POW block Mined)
 
 For more information, as well as an immediately useable, binary version of
   the Trexcoin wallet client, please visit https://www.trexcoin.org/.
