@@ -1,0 +1,9 @@
+Building Trexcoin
+
+See doc/readme-qt.rst for instructions on building Trexcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Trexcoin.
+
+See doc/build-*.txt for instructions on building trexcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Trexcoin.
