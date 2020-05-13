@@ -4,7 +4,9 @@ Trexcoin integration/staging tree
 https://www.trexcoin.org
 
 Copyright (c) 2009-2015 Bitcoin Developers
+
 Copyright (c) 2011-2015 Litecoin Developers
+
 Copyright (c) 2020 Trexcoin Developers
 
 What is Trexcoin?
