@@ -16,8 +16,8 @@ Trexcoin is an open source peer-to-peer cryptocurrency. favored by TREX species 
 Around Apirl 4th 2020, Trexcoin transitioned to Proof-of-Stake (PoS)
 algorithm which replaced Proof-of-Work (PoW).
  - 60 Second block target
- - just under 5 million mined in PoW phase
- - 24% annual interest in PoS phase
+ - just under 5000 blocks mined in PoW phase
+ - 20% annual interest in PoS phase
 
 Trexcoin started in Apirl 2020 as a variant of Litecoin using Scrypt as
 the Proof-of-Work (PoW) hash algorithm.
