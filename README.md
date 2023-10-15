@@ -1,7 +1,7 @@
 Trexcoin integration/staging tree
 ================================
 
-https://www.trexcoin.org
+https://www.trexcoin.net
 
 Copyright (c) 2009-2015 Bitcoin Developers
 
@@ -26,7 +26,7 @@ the Proof-of-Work (PoW) hash algorithm.
  - After 5000 Block mined via POW Phase POW mining is over (10 coins rewarded on per POW block Mined)
 
 For more information, as well as an immediately useable, binary version of
-  the Trexcoin wallet client, please visit https://www.trexcoin.org/.
+  the Trexcoin wallet client, please visit https://www.trexcoin.net/.
 
 License
 -------
